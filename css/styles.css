@@ -292,9 +292,9 @@ footer {
   .photogrid {
     display: grid;
     grid-template-columns: auto;
-    grid-gap: none;
+    grid-gap: 0em;
   }
-  
+
   .gridpic {
     margin-left: calc(calc(100% - 540px) / 2);
   }
