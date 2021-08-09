@@ -165,8 +165,8 @@ header img {
 
 .photogrid {
   display: grid;
-  grid-template-columns: auto auto;
-  grid-gap: 5px;
+  grid-template-columns: auto auto auto;
+  grid-gap: 0.5em;
 }
 
 .gridpic {
@@ -275,7 +275,13 @@ footer {
 
 
 /*media query for responsive design */
-
+@media only screen and (max-width: 1000px) {
+  .photogrid {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 0.5em;
+  }
+}
 
 @media only screen and (max-width: 800px) {
 
@@ -283,6 +289,15 @@ footer {
     display: none;
   }
 
+  .photogrid {
+    display: grid;
+    grid-template-columns: auto;
+    grid-gap: none;
+  }
+  
+  .gridpic {
+    margin-left: calc(calc(100% - 540px) / 2);
+  }
 
 }
 
