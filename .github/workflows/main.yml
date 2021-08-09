@@ -1,0 +1,23 @@
+name: Upload to USC Storyspace
+on: push
+jobs:
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Upload ftp
+      uses: sebastianpopp/ftp-action@releases/v2
+      with:
+        # FTP host
+        host: ftp.uscstoryspace.com
+        # FTP user
+        user: ${{ secrets.FTP_USERNAME }}
+        # FTP password
+        password: ${{ secrets.FTP_PASSWORD }}
+        # Force SSL encryption
+        forceSsl: # optional, default is false
+        # Local directory
+        localDir: # optional, default is .
+        # Remote directory
+        remoteDir: # optional, default is .
