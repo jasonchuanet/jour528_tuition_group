@@ -1,17 +1,23 @@
-- name: ftp-action
-  # You may pin to the exact commit or the version.
-  # uses: sebastianpopp/ftp-action@eb75c5cb29d23ee4a729720a27dfb66403cb0f6d
-  uses: sebastianpopp/ftp-action@v2.0.0
-  with:
-    # FTP host
-    host: ftp.uscstoryspace.com
-    # FTP user
-    user: ${{ secrets.FTP_USERNAME }}
-    # FTP password
-    password: ${{ secrets.FTP_PASSWORD }}
-    # Force SSL encryption
-    forceSsl: # optional, default is false
-    # Local directory
-    localDir: # optional, default is .
-    # Remote directory
-    remoteDir: # optional, default is .
+name: Upload to USC Storyspace
+on: push
+jobs:
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Upload ftp
+      uses: sebastianpopp/ftp-action@releases/v2
+      with:
+        # FTP host
+        host: ftp.uscstoryspace.com
+        # FTP user
+        user: ${{ secrets.FTP_USERNAME }}
+        # FTP password
+        password: ${{ secrets.FTP_PASSWORD }}
+        # Force SSL encryption
+        forceSsl: # optional, default is false
+        # Local directory
+        localDir: # optional, default is .
+        # Remote directory
+        remoteDir: # optional, default is .
