@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Tu</title>
+
+  <meta property="og:title" content="Your Headline Here">
+  <meta property="og:description" content="Put a description of your story here">
+  <meta property="og:image" content="img/photo01.jpg">
+  <meta property="og:url" content="https://uscstoryspace.com/2020-2021/group01/">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <!-- viewport for responsive -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- character set -->
+  <meta charset="UTF-8">
+
+  <!-- CSS stylesheets -->
+  <link href="css/normalize.css" rel="stylesheet" type="text/css">
+  <link href="css/jqueryui.css" rel="stylesheet" type="text/css">
+  <link href="css/cycle2.css" rel="stylesheet" type="text/css">
+
+  <!-- <link href="https://fonts.googleapis.com/css2?family=Karla&display=swap" rel="stylesheet"> -->
+  <link
+    href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Raleway&family=Montserrat&family=Open+Sans&family=Roboto&display=swap"
+    rel="stylesheet">
+  <link href="css/styles.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+
+  <header>
+    <img src="img/p2.png">
+  </header>
+
+  <div class="title1">
+    <h1>Tracking Tuition</h1>
+    <h2>TKTK</h2>
+    <h3>By TKTK</h3>
+  </div>
+
+  <article class="content">
+
+    <div class="title2">
+      <h1>The Elements of Style</h1>
+      <h2>With a subheading that does not disappear on mobile</h2>
+      <h3>By William Strunk Jr. and E.B. White</h3>
+    </div>
+
+    <section class="maintext">
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+      <div class="pullquote left">
+        <p>“Omit needless words. Use active voice.”</p>
+        <p class="name"> — William Strunk Jr.</p>
+      </div>
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+    </section>
+
+    <section class="youtube">
+
+      <div class="responsivecontainer">
+
+        <!-- replace the iframe code below with the embed code from youtube  -->
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/OvOOlmomRvU" frameborder="0"
+          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+
+      <div class="clickhere"><a href="media/soar.mp4">click here to download video</a></div>
+
+    </section>
+
+
+    <section class="maintext">
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+    </section>
+
+    <section class="bigphoto">
+      <img src="img/photo09.jpg">
+      <div class="photocaption">
+        <p>This is a caption and/or a credit</p>
+      </div>
+    </section>
+
+
+    <section class="maintext">
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+    </section>
+
+    <section class="googlemap">
+
+      <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3306.899856017157!2d-118.28916985030163!3d34.02078142674187!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c7e350cdb691%3A0x1629be6b9a8f99a!2sWallis%20Annenberg%20Hall!5e0!3m2!1sen!2sus!4v1592527253000!5m2!1sen!2sus"
+        width="600" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false"
+        tabindex="0"></iframe>
+
+    </section>
+
+    <section class="maintext">
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+      <div class="pullquote right">
+        <p>Use parallel construction on concepts that are parallel.</p>
+      </div>
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+    </section>
+
+
+    <section class="bigphoto">
+      <img src="img/photo05.jpg">
+      <div class="photocaption">
+        <p>This is a caption and/or a credit</p>
+      </div>
+    </section>
+
+
+    <section class="maintext">
+
+      <h1 class="sectionhead">New Section</h1>
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+    </section>
+
+    <section class="photogrid">
+
+      <div class="gridpic">
+        <img src="img/photo03.jpg">
+        <div class="photocaption">
+          <p>This is a caption and/or a credit</p>
+        </div>
+      </div>
+
+      <div class="gridpic">
+        <img src="img/photo12.jpg">
+        <div class="photocaption">
+          <p>This is a caption and/or a credit</p>
+        </div>
+      </div>
+
+      <div class="gridpic">
+        <img src="img/photo08.jpg">
+        <div class="photocaption">
+          <p>This is a caption and/or a credit</p>
+        </div>
+      </div>
+
+      <div class="gridpic">
+        <img src="img/photo11.jpg">
+        <div class="photocaption">
+          <p>This is a caption and/or a credit</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="maintext">
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+    </section>
+
+
+    <section class="voxpop">
+
+      <h1 class="sectionhead">Audio Stories</h1>
+
+      <div class="voxgrid">
+
+        <div class="person">
+          <div class="headshot">
+            <img src="img/head1.jpg">
+            <div class="photocaption">
+              <p>Name</p>
+            </div>
+          </div>
+          <audio src="media/sound1.mp3" controls></audio>
+        </div>
+
+        <div class="person">
+          <div class="headshot">
+            <img src="img/head2.jpg">
+            <div class="photocaption">
+              <p>Name</p>
+            </div>
+          </div>
+          <audio src="media/sound3.mp3" controls></audio>
+        </div>
+
+        <div class="person">
+          <div class="headshot">
+            <img src="img/head3.jpg">
+            <div class="photocaption">
+              <p>Name</p>
+            </div>
+          </div>
+          <audio src="media/sound2.mp3" controls></audio>
+        </div>
+
+        <div class="person">
+          <div class="headshot">
+            <img src="img/head4.jpg">
+            <div class="photocaption">
+              <p>Name</p>
+            </div>
+          </div>
+          <audio src="media/sound4.mp3" controls></audio>
+        </div>
+
+    </section>
+
+    <section class="maintext">
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+    </section>
+
+    <section class="cycle-slideshow" data-cycle-fx=scrollHorz data-cycle-timeout=2000
+      data-cycle-caption-plugin=caption2>
+
+      <!-- empty element for pager links -->
+      <div class="cycle-pager"></div>
+
+      <!-- prev/next links -->
+      <div class="cycle-prev"></div>
+      <div class="cycle-next"></div>
+      <!-- empty element for caption2 -->
+      <div class="cycle-caption"></div>
+      <div class="cycle-overlay"></div>
+
+      <img src="img/photo04.jpg" data-cycle-title="This is a caption" data-cycle-desc="">
+      <img src="img/photo08.jpg" data-cycle-title="This is a caption" data-cycle-desc="">
+      <img src="img/photo13.jpg" data-cycle-title="This is a caption" data-cycle-desc="">
+      <img src="img/photo15.jpg" data-cycle-title="This is a caption" data-cycle-desc="">
+
+
+      </div>
+
+    </section>
+
+    <section class="maintext">
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+    </section>
+
+
+    <section class="knightlab">
+
+      <iframe
+        src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1xuY4upIooEeszZ_lCmeNx24eSFWe0rHe9ZdqH2xqVNk&font=Default&lang=en&initial_zoom=2&height=650'
+        width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+    </section>
+
+    <section class="maintext">
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+    </section>
+
+    <section class="bigphoto">
+      <img src="img/photo14.jpg">
+      <div class="photocaption">
+        <p>This is a caption and/or a credit</p>
+      </div>
+    </section>
+
+    <section class="maintext">
+
+      <h1 class="sectionhead">New Section</h1>
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+    </section>
+
+    <section class="infographic">
+
+      <script id="infogram_0_387a87be-a84d-4828-97d4-6e4bfc389de4" title="Public Transport in Diff Cities"
+        src="https://e.infogram.com/js/dist/embed.js?hsB" type="text/javascript"></script>
+      <div
+        style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px">
+        <a href="https://infogram.com/387a87be-a84d-4828-97d4-6e4bfc389de4"
+          style="color:#989898!important;text-decoration:none!important;" target="_blank">Public Transport in Diff
+          Cities</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;"
+          target="_blank" rel="nofollow">Infogram</a></div>
+
+    </section>
+
+    <section class="maintext">
+
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+      <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary
+        sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary
+        parts. This requires not that the writers make all their sentences short, or that they avoid all detail and
+        treat their subjects only in outline, but that they make every word tell.</p>
+
+    </section>
+
+
+
+
+
+
+  </article> <!-- closes the main content article -->
+
+  <footer>
+    <p>&copy;2020 William Strunk Jr. and E.B. White
+  </footer>
+
+
+
+  <!-- JAVASCRIPT -->
+  <script src="js/jquery.js"></script>
+  <script src="js/jqueryui.js"></script>
+  <script src="js/script.js"></script>
+  <script src="js/lib/cycle2.min.js"></script>
+  <script src="js/lib/cycle2.swipe.min.js"></script>
+  <script src="js/lib/cycle2.center.min.js"></script>
+</body>
+
+</html>
