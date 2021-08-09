@@ -20,6 +20,8 @@
 	<link href="css/normalize.css" rel="stylesheet" type="text/css">
 	<link href="css/jqueryui.css" rel="stylesheet" type="text/css">
 	<link href="css/cycle2.css" rel="stylesheet" type="text/css">
+	<link href="css/video-js.css" rel="stylesheet" type="text/css">
+	<link href="css/video-js-city.css" rel="stylesheet" type="text/css">
 
 	<!-- <link href="https://fonts.googleapis.com/css2?family=Karla&display=swap" rel="stylesheet"> -->
 	<link
@@ -114,8 +116,25 @@
 			<section class="maintext">
 			
 			<p>After losing the financial support of his family’s business, Suhit Agarwal, an international student from India, suddenly needed a loan to stay enrolled at USC. Agarwal was not able to take out a loan through the school, nor was he able to get a job due to the pandemic. International students are required to submit proof of solvency to pay the tuition in full before they enroll. When these students or their families experience financial difficulties, the support they get from the university is very limited. His only option was to get a loan through a private entity, which required a US cosigner. </p>
+			</section>
 
-			<!-- TKTK INSERT Explainer video-->
+			<aside class="youtube" >
+				<video
+				id="my-video"
+				class="video-js vjs-16-9 vjs-theme-city vjs-big-play-centered  youtube"
+				controls
+				preload="auto"
+				poster="img/explainer_cover.gif"
+				data-setup="{}"
+				>
+					<source src="media/explainer_h265.mp4" type='video/webm;codecs="hvc1.1.6.H156.90,mp4a.40.2"'/>
+					<source src="media/explainer_h264.mp4" type='video/webm;codecs="avc1.640034,mp4a.40.2"'/>
+					<source src="media/explainer_vp8.webm" type='video/webm;codecs="vp8,vorbis"'/>
+					I'm sorry; your browser doesn't support HTML5 video.
+				  </video>
+			</aside>
+
+			<section class="maintext">
 			<p>Agarwal described his debt as always “in the back of my head, like a nagging thing.” He is projected to pay his loan within 20 years, if he’s lucky. He’s only one of many international students going through something similar at USC, which is unfortunate for a group who is so financially stimulating for, not only the school they attend, but the economy in general. Foreign students contributed $44.7 billion to the U.S. economy during 2018, according to Reuters citing the U.S. Department of Commerce.</p>
 
 			<p>Again, USC is not the only institution to lack support for the student body’s financial woes, they are simply following a national trend. If they were to decide to go against the grain now, it would have to be their own influence. “We can complain all we want, but at the end of the day they’re the ones that hold the power because if a few students want to stop paying tuition, it’s honestly not that big of a deal for them, because they can always get other students who are willing to pay that price,” said Hana Li, a Senator for the Undergraduate Student Government at USC. </p>
@@ -143,6 +162,7 @@
 	<script src="js/lib/cycle2.min.js"></script>
 	<script src="js/lib/cycle2.swipe.min.js"></script>
 	<script src="js/lib/cycle2.center.min.js"></script>
+	<script src="js/lib/video.min.js"></script>
 </body>
 
 </html>
