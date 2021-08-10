@@ -1,22 +1,24 @@
-Instruction [2368261114] Expenses
-Research [460820000] Expenses
-Public Service [70507797] Expenses
-Academic Support [76391000] Expenses
-Student Services [295378000] Expenses
-Institutional Support [791502378] Expenses
-Auxiliary Enterprises [319107000] Expenses
-Net grand aid to Students [0] Expenses
-Hospital Services [1227194711] Expenses
-Indepent Operations [0] Expenses
-Other [0] Expenses
+Expenses [2368261114] Instruction
+Expenses [460820000] Research
+Expenses [70507797] Public Service
+Expenses [76391000] Academic Support
+Expenses [295378000] Student Services
+Expenses [791502378] Institutional Support
+Expenses [319107000] Auxiliary Enterprises
+Expenses [0] Net grand aid to Students
+Expenses [1227194711] Hospital Services
+Expenses [0] Indepent Operations
+Expenses [0] Other
 
-Instruction	[1224434000] 
-Research	[201605000] 
-Public Service	[4692000] 
-Academic Support	[18932000] 
-Student Services	[97005000] 
-Institutional Support	[206602000] 
-Auxiliary Enterprises	[56239000] 
-Net grand aid to Students	[0]   
-Hospital Services	[568714000] 
-Indepent Operations	[0]   
+Instruction [1224434000] Salaries and wages
+Research [201605000] Salaries and wages
+Public Service [4692000] Salaries and wages
+Academic Support [18932000] Salaries and wages
+Student Services [97005000] Salaries and wages
+Institutional Support [206602000] Salaries and wages
+Auxiliary Enterprises [56239000] Salaries and wages
+Net grand aid to Students [0] Salaries and wages
+Hospital Services [568714000] Salaries and wages
+Indepent Operations [0] Salaries and wages
+Other [0] Salaries and wages
+
