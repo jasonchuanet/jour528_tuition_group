@@ -34,11 +34,13 @@ h1, h2, h3, .pullquote {
 
 header {
   width: 100%;
-  position: sticky;
+  /*position: sticky;*/
   top: 0;
   z-index: -1;
-  background-color: black;
+  background-color: #9b4741;
   /*max-height: 600px;*/
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 header img {
@@ -47,9 +49,7 @@ header img {
 }
 
 .title1 {
-  position: absolute;
   width: 100%;
-  top: 20%;
   color: white;
   text-align: center;
   padding: 3%;
@@ -266,6 +266,28 @@ header img {
   margin: auto;
 }
 
+.interactive_lede {
+  max-width: 640px;
+  min-height: 100vh;
+  margin-left: auto;
+  padding: 1%;
+  margin-bottom: 0;
+  color: white;
+  background: rgba(0, 0, 0, 0.7);
+}
+.interactive_lede p {
+  font-size: 1.5em;
+  margin-bottom: 1em;
+}
+.interactive_hidden {
+  opacity: 0;
+  height: 0;
+  overflow: hidden;
+}
+.interactive_skip {
+  text-decoration: underline;
+  cursor: pointer;
+}
 
 footer {
   background-color: black;
@@ -286,7 +308,12 @@ footer {
 }
 
 @media only screen and (max-width: 800px) {
-
+  .interactive_lede {
+    width: 100%;
+  }
+  .interactive_lede p {
+    font-size: 1.25em;
+  }
   .pullquote {
     display: none;
   }
@@ -343,6 +370,10 @@ footer {
     background-color: black;  
   }
 
+  .interactive_chart {
+    visibility: hidden;
+    height: 0;
+  }
 
 }
 
