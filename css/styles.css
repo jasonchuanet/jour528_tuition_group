@@ -31,7 +31,8 @@ body {
   background-color: #9b4741 ;
 }
 
-h1, h2, h3, .pullquote {
+.maintext > h1, .maintext > h2, .maintext > h3, .pullquote {
+  color: #9b4741;
   font-family: 'Open Sans', sans-serif;
 
 }
@@ -128,7 +129,7 @@ header picture img{
 }
 
 .pullquote {
-  width: 50%;
+  /*width: 50%;*/
   font-size: 1.4em;
   line-height: 1.6em;
   font-style: italic;
@@ -307,7 +308,7 @@ header picture img{
 }
 
 footer {
-  background-color: black;
+  background-color: #9b4741;
   color: white;
   padding: 1%;
   text-align: right;
