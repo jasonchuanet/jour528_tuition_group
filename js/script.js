@@ -6,12 +6,6 @@
 
 $(document).ready(function(){ // begin document.ready block
 
-	//Used for the photo grid
-	$(".gridpic").hover(function(){
-		$('.photocaption', this).fadeToggle();
-
-	});
-	
 	//Interactive Button
 	$("#run_madlib").on("click", madlib);
 
