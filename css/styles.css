@@ -296,13 +296,14 @@ header picture img{
   margin-bottom: 1em;
 }
 .interactive_hidden {
-  opacity: 0;
-  height: 0;
-  overflow: hidden;
+  display: none;
 }
 .interactive_skip {
   text-decoration: underline;
   cursor: pointer;
+}
+#madlib {
+  font-style: italic;
 }
 
 footer {
