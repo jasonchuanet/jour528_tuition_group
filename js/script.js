@@ -85,7 +85,7 @@ function madlib() {
 
 
 	// prepare madlib text
-	const text = '<p id="madlib">'+t[0]+' of your tuition was spent on tuition goes toward intruction. Of that, '+t[7]+' was spent on salaries and wages.</p>'
+	const text = '<p id="madlib">'+t[0]+' of your tuition was spent on instruction. Of that, '+t[7]+' was spent on salaries and wages.</p>'
 
 	// insert the madlib
 	$("#madlib").replaceWith(text);
